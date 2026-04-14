@@ -1,5 +1,8 @@
 # Fake_and_Real_News_Detection_RNN
 
+DRIVE LINK FOR DATASET :
+https://drive.google.com/drive/folders/15jg2CvR2S4Io561-bfEpVoDcx2z_RbuU
+
 Fake and Real News Detection
 
 Abstract:
